@@ -1,6 +1,6 @@
 # Twitter-friends
 
-This script [twitterFriends.py](https://github.com/sergirovira/Twitter-friends/blob/master/twitterFriends.py) does the following:
+The script [twitterFriends.py](https://github.com/sergirovira/Twitter-friends/blob/master/twitterFriends.py) does the following:
   
   - Ask Twitter for your friends list
   - Ask Twitter for your friends' friends list
