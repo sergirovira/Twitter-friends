@@ -14,4 +14,5 @@ IMPORTANT:
   - token_key = your application key
   - secret_key = your application secret
   
-  Follow the information in this link in order to optain the requested values: [OAth tokens](https://dev.twitter.com/oauth/overview/application-owner-access-tokens)
+
+Follow the information in this link in order to optain the requested values: [OAth tokens](https://dev.twitter.com/oauth/overview/application-owner-access-tokens)
