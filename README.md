@@ -1,6 +1,6 @@
 # Twitter-friends
 
-This script [] does the following:
+This script [twitterFriends.py](https://github.com/sergirovira/Twitter-friends/blob/master/twitterFriends.py) does the following:
   
   - Ask Twitter for your friends list
   - Ask Twitter for your friends' friends list
@@ -9,11 +9,9 @@ This script [] does the following:
 IMPORTANT: 
   You must include a file named hidden.py with the following information:
   
-  consumer_key = ""
-  consumer_secret = ""
-  token_key = ""
-  secret_key = ""
+  - consumer_key = your consumer key
+  - consumer_secret = your consumer secret
+  - token_key = your application key
+  - secret_key = your application secret
   
-  Follow the information in this link in order to optain the requested values: 
-  
-  [OAth tokens](https://dev.twitter.com/oauth/overview/application-owner-access-tokens)
+  Follow the information in this link in order to optain the requested values: [OAth tokens](https://dev.twitter.com/oauth/overview/application-owner-access-tokens)
